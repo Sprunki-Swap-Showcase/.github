@@ -6,7 +6,9 @@
 
 ## Other Sprunki Games
 [Sprunkly](https://sprunkly.org/)
+
 [Scrunkly](https://scrunkly.cc/)
+
 [Sprunki Pyramixed](https://sprunkipyraminx.org/)
 
 ## Unique Character Transformations
