@@ -2,7 +2,7 @@
 
 **Sprunki Swap Showcase** reimagines the beloved gameplay of Incredibox by introducing a unique character swap mechanic that enhances both the auditory and visual experience. Players can still drag and drop characters to create layered music tracks, but now with an exciting twist that invites creativity and exploration.
 
-[Play Now](https://scrunkly.cc/game/sprunki-swap-showcase)
+👉👉 Click to play [Sprunki Swap](https://sprunkly.org/game/sprunki-swap-showcase)
 
 ## Other Sprunki Games
 [Sprunkly](https://sprunkly.org/)
